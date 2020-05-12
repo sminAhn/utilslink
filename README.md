@@ -17,3 +17,7 @@ Python django vs Flask. web framework 무엇을 선택해야할까? - https://we
 docker pytorch 설치 - https://driz2le.tistory.com/271
 
 
+
+https://github.com/sminAhn/jupyter/blob/master/numpy/ex01.ipynb
+
+
