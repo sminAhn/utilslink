@@ -18,6 +18,7 @@ docker pytorch 설치 - https://driz2le.tistory.com/271
 
 
 
+Jupyter ipynb 로 보기
 https://github.com/sminAhn/jupyter/blob/master/numpy/ex01.ipynb
 
 
