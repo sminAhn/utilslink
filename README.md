@@ -25,3 +25,5 @@ https://github.com/sminAhn/jupyter/blob/master/numpy/ex01.ipynb
 데이터베이스 관리툴
 https://dbeaver.io/
 
+파이썬 문법 참고
+https://wikidocs.net/book/1
