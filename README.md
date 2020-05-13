@@ -27,3 +27,8 @@ https://dbeaver.io/
 
 파이썬 문법 참고
 https://wikidocs.net/book/1
+
+텐서플로우 한글 번역문서
+https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/
+
+
