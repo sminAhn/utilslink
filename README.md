@@ -32,3 +32,7 @@ https://wikidocs.net/book/1
 https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/
 
 
+데이터베이스 관리툴
+https://dbeaver.io/
+
+
