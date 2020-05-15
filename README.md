@@ -9,6 +9,9 @@ TensorBoard로 모델, 데이터, 학습 시각화하기 — PyTorch Tutorials 1
 [IntelliJ] Intellij 학생 인증, 무료 설치 방법 - https://goddaehee.tistory.com/215
 
 
+intellij 단축키
+https://blog.jetbrains.com/kr/2020/03/top-15-intellij-idea-shortcuts_ko/
+
 
 Python django vs Flask. web framework 무엇을 선택해야할까? - https://wendys.tistory.com/172
 
@@ -34,5 +37,9 @@ https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/
 
 데이터베이스 관리툴
 https://dbeaver.io/
+
+
+notepad++
+https://notepad-plus-plus.org/downloads/v7.8.6/
 
 
