@@ -43,3 +43,7 @@ notepad++
 https://notepad-plus-plus.org/downloads/v7.8.6/
 
 
+점프 투 장고
+https://wikidocs.net/book/4223
+
+
