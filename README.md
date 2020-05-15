@@ -47,3 +47,6 @@ https://notepad-plus-plus.org/downloads/v7.8.6/
 https://wikidocs.net/book/4223
 
 
+딥러닝 자연어 처리 
+https://wikidocs.net/book/2155
+
