@@ -50,3 +50,8 @@ https://wikidocs.net/book/4223
 딥러닝 자연어 처리 
 https://wikidocs.net/book/2155
 
+
+progit, git 사용 설명서
+https://git-scm.com/book/ko/v2
+
+
