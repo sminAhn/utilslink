@@ -36,6 +36,8 @@
 
 [Open pose 참고 라이브러리들](https://awesomeopensource.com/projects/openpose)
 
+[Posenet pose classifier](https://youtu.be/FYgYyq-xqAw)
+
 
 
 ### 구글 검색어
