@@ -37,3 +37,12 @@
 [Open pose 참고 라이브러리들](https://awesomeopensource.com/projects/openpose)
 
 
+
+### 구글 검색어
+
+openpose vs 
+
+openpose vs posenet
+
+posenet
+
