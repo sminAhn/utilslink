@@ -33,3 +33,7 @@
 [progit, git 사용 설명서](https://git-scm.com/book/ko/v2)
 
 [데이터셋 참고](https://www.kaggle.com/)
+
+[Open pose 참고 라이브러리들](https://awesomeopensource.com/projects/openpose)
+
+
