@@ -38,7 +38,7 @@
 
 [Posenet pose classifier](https://youtu.be/FYgYyq-xqAw)
 
-
+[Paper](https://awesomeopensource.com/project/lzhbrian/image-to-image-papers)
 
 ### 구글 검색어
 
