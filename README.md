@@ -42,6 +42,7 @@
 
 [Cartoon](https://github.com/znxlwm/pytorch-CartoonGAN/blob/master/README.md)
 
+[Posenet](https://www.tensorflow.org/lite/models/pose_estimation/overview#example_output)
 
 ### 구글 검색어
 
