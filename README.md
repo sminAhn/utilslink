@@ -40,6 +40,9 @@
 
 [Paper](https://awesomeopensource.com/project/lzhbrian/image-to-image-papers)
 
+[Cartoon](https://github.com/znxlwm/pytorch-CartoonGAN/blob/master/README.md)
+
+
 ### 구글 검색어
 
 openpose vs 
