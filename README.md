@@ -44,6 +44,9 @@
 
 [Posenet](https://www.tensorflow.org/lite/models/pose_estimation/overview#example_output)
 
+
+[Stackgan](https://github.com/hanzhanggit/StackGAN-v2/blob/master/README.md)
+
 ### 구글 검색어
 
 openpose vs 
@@ -51,4 +54,7 @@ openpose vs
 openpose vs posenet
 
 posenet
+
+
+
 
